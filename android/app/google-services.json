@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983418766426",
+    "project_id": "spag-notes",
+    "storage_bucket": "spag-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983418766426:android:55d5dc12d5b0013e210463",
+        "android_client_info": {
+          "package_name": "com.example.spag_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983418766426-ees8h0d2e2tjuga37sqgddu2dr6dshg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6I3ajmy8BztfXSRjNkfhFgydBRZT15so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983418766426-ees8h0d2e2tjuga37sqgddu2dr6dshg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
